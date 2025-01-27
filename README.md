@@ -1,6 +1,14 @@
 # DEUI Resource list
 ## DEUI CA3 Key URLs
 
+
+- **[Nicholas Protos](https://www.figma.com/proto/2f64yIVi5zMLfObAwZ2pjr/DEUI---Working-Instance---(Main)?node-id=4192-21304&t=fwvGRFRCP30d8xYn-1)**
+
+- **[Guan Ren Protos](https://www.figma.com/proto/2f64yIVi5zMLfObAwZ2pjr/DEUI---Working-Instance---(Main)?node-id=4192-29507&t=fwvGRFRCP30d8xYn-1)**
+
+- **[SH's Protos](https://www.figma.com/proto/2f64yIVi5zMLfObAwZ2pjr/DEUI---Working-Instance---(Main)?node-id=4168-7016&t=fwvGRFRCP30d8xYn-1)**
+
+
 - **[Figma](https://www.figma.com/design/2f64yIVi5zMLfObAwZ2pjr/DEUI---Working-Instance---(Main)?t=aZkptoWUJhZEECdQ-0)**
 
 - **[Prototype Url (CA2)](https://www.figma.com/proto/2f64yIVi5zMLfObAwZ2pjr/DEUI---Working-Instance---(Main)?node-id=4013-16277&t=cbOokzYOZHUhWYyr-1)**
